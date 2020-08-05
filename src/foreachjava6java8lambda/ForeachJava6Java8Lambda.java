@@ -22,7 +22,7 @@ public class ForeachJava6Java8Lambda {
 
         //Foreach Java 6
         for (Integer iten : itens) {
-            System.out.println("JAva 6: " + iten);
+            System.out.println("Java 6: " + iten);
         }
 
         //Foreach Java 8 - Reference Method
